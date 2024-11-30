@@ -6,7 +6,7 @@
 ```shell
 sdk install java 22.0.2-graalce
 
-git clone git@github.com:linghengqian/graalvm-v2301-json-test.git
+git clone git@github.com:linghengqian/groovy-v500-graalvm-test.git
 cd ./graalvm-v2301-json-test/
 sdk use java 22.0.2-graalce
 ./mvnw -PnativeTestCustom -e -T 1C clean test
