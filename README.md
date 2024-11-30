@@ -1,6 +1,6 @@
 # groovy-v500-graalvm-test
 
-- For https://github.com/apache/shardingsphere/issues/29052 .
+- For https://github.com/apache/shardingsphere/issues/29052 and I opened https://github.com/oracle/graal/issues/10200 .
 - Verified unit test under Ubuntu 22.04.4 LTS with `SDKMAN!`.
 
 ```shell
